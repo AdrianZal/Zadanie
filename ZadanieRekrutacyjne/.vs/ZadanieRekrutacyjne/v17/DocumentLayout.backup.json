@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{831B6BDC-E023-4B24-999F-CD2E12B0E62F}|ZadanieRekrutacyjne.csproj|c:\\users\\adrian\\desktop\\zadanie\\zadanierekrutacyjne\\zadanierekrutacyjne.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{831B6BDC-E023-4B24-999F-CD2E12B0E62F}|ZadanieRekrutacyjne.csproj|solutionrelative:zadanierekrutacyjne.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9581A008-50EA-4968-928C-B7B743232AB2}|..\\Zadanierekrutacyjne.Tests\\Zadanierekrutacyjne.Tests.csproj|c:\\users\\adrian\\desktop\\zadanie\\zadanierekrutacyjne.tests\\servicestests\\fileservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9581A008-50EA-4968-928C-B7B743232AB2}|..\\Zadanierekrutacyjne.Tests\\Zadanierekrutacyjne.Tests.csproj|c:\\users\\adrian\\desktop\\zadanie\\zadanierekrutacyjne.tests\\servicestests\\catfactservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\ZadanieRekrutacyjne.Tests\\ServiceTests\\CatFactServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831B6BDC-E023-4B24-999F-CD2E12B0E62F}|ZadanieRekrutacyjne.csproj|c:\\users\\adrian\\desktop\\zadanie\\zadanierekrutacyjne\\models\\catfactresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831B6BDC-E023-4B24-999F-CD2E12B0E62F}|ZadanieRekrutacyjne.csproj|solutionrelative:models\\catfactresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831B6BDC-E023-4B24-999F-CD2E12B0E62F}|ZadanieRekrutacyjne.csproj|c:\\users\\adrian\\desktop\\zadanie\\zadanierekrutacyjne\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831B6BDC-E023-4B24-999F-CD2E12B0E62F}|ZadanieRekrutacyjne.csproj|solutionrelative:services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831B6BDC-E023-4B24-999F-CD2E12B0E62F}|ZadanieRekrutacyjne.csproj|c:\\users\\adrian\\desktop\\zadanie\\zadanierekrutacyjne\\services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831B6BDC-E023-4B24-999F-CD2E12B0E62F}|ZadanieRekrutacyjne.csproj|solutionrelative:services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831B6BDC-E023-4B24-999F-CD2E12B0E62F}|ZadanieRekrutacyjne.csproj|c:\\users\\adrian\\desktop\\zadanie\\zadanierekrutacyjne\\services\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831B6BDC-E023-4B24-999F-CD2E12B0E62F}|ZadanieRekrutacyjne.csproj|solutionrelative:services\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831B6BDC-E023-4B24-999F-CD2E12B0E62F}|ZadanieRekrutacyjne.csproj|c:\\users\\adrian\\desktop\\zadanie\\zadanierekrutacyjne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831B6BDC-E023-4B24-999F-CD2E12B0E62F}|ZadanieRekrutacyjne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831B6BDC-E023-4B24-999F-CD2E12B0E62F}|ZadanieRekrutacyjne.csproj|c:\\users\\adrian\\desktop\\zadanie\\zadanierekrutacyjne\\services\\icatfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831B6BDC-E023-4B24-999F-CD2E12B0E62F}|ZadanieRekrutacyjne.csproj|solutionrelative:services\\icatfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Adrian\\Desktop\\ZadanieRekrutacyjne.Tests\\ServiceTests\\FileServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Zadanie\\Zadanierekrutacyjne.Tests\\ServicesTests\\FileServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\Zadanierekrutacyjne.Tests\\ServicesTests\\FileServiceTests.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Zadanie\\Zadanierekrutacyjne.Tests\\ServicesTests\\FileServiceTests.cs*",
+              "RelativeToolTip": "..\\Zadanierekrutacyjne.Tests\\ServicesTests\\FileServiceTests.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:56:09.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatFactServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Zadanie\\Zadanierekrutacyjne.Tests\\ServicesTests\\CatFactServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\Zadanierekrutacyjne.Tests\\ServicesTests\\CatFactServiceTests.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Zadanie\\Zadanierekrutacyjne.Tests\\ServicesTests\\CatFactServiceTests.cs*",
+              "RelativeToolTip": "..\\Zadanierekrutacyjne.Tests\\ServicesTests\\CatFactServiceTests.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:55:48.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\ZadanieRekrutacyjne.Tests\\ServiceTests\\FileServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\ZadanieRekrutacyjne.Tests\\ServiceTests\\FileServiceTests.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\ZadanieRekrutacyjne.Tests\\ServiceTests\\FileServiceTests.cs",
+              "RelativeToolTip": "..\\..\\ZadanieRekrutacyjne.Tests\\ServiceTests\\FileServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:46:56.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatFactServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\ZadanieRekrutacyjne.Tests\\ServiceTests\\CatFactServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\ZadanieRekrutacyjne.Tests\\ServiceTests\\CatFactServiceTests.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\ZadanieRekrutacyjne.Tests\\ServiceTests\\CatFactServiceTests.cs",
+              "RelativeToolTip": "..\\..\\ZadanieRekrutacyjne.Tests\\ServiceTests\\CatFactServiceTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:46:35.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZadanieRekrutacyjne.csproj",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne.csproj",
+              "RelativeDocumentMoniker": "ZadanieRekrutacyjne.csproj",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne.csproj",
+              "RelativeToolTip": "ZadanieRekrutacyjne.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-06T20:38:13.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatFactResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\Models\\CatFactResponse.cs",
+              "RelativeDocumentMoniker": "Models\\CatFactResponse.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\Models\\CatFactResponse.cs",
+              "RelativeToolTip": "Models\\CatFactResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:26:07.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\Services\\FileService.cs",
+              "RelativeToolTip": "Services\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:25:00.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\Services\\IFileService.cs",
+              "RelativeDocumentMoniker": "Services\\IFileService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\Services\\IFileService.cs",
+              "RelativeToolTip": "Services\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:24:48.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CatFactService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\Services\\CatFactService.cs",
+              "RelativeDocumentMoniker": "Services\\CatFactService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\Services\\CatFactService.cs",
+              "RelativeToolTip": "Services\\CatFactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:24:33.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICatFactService.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\Services\\ICatFactService.cs",
+              "RelativeDocumentMoniker": "Services\\ICatFactService.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\Services\\ICatFactService.cs",
+              "RelativeToolTip": "Services\\ICatFactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:24:19.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Adrian\\Desktop\\Zadanie\\ZadanieRekrutacyjne\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:22:47.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
